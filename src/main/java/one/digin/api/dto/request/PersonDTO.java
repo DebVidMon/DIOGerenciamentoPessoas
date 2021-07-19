@@ -26,10 +26,10 @@ public class PersonDTO {
     @NotEmpty
     private String email;
 
-    @NotNull
+    
     private String birthDate;
     
-    @NotNull
+    
     private String website;
 
     @Valid
